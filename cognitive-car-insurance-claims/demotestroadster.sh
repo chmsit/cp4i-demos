@@ -8,9 +8,9 @@ curl --insecure \
      --header 'accept: application/json' \
      --header 'content-type: application/json' \
      --data '{
-         "Name":"Brenda Beemer",
-         "eMail":"beemerbrenda@example.com",
-         "LicensePlate":"ILUVZ4",
+         "Name":"Andy Ycoung",
+         "eMail":"a_young@dickenson.com",
+         "LicensePlate":"Roadster1",
          "DescriptionOfDamage":"Turbo is down on power and I like to drive fast - please tune it up!",
          "PhotoOfCar":"'$(base64 roadster.jpg)'",
          "ContactID":"8897796795006976"
